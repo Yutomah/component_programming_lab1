@@ -1,0 +1,41 @@
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\bin\Debug\FormsApp.exe.config
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\bin\Debug\FormsApp.exe
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\bin\Debug\FormsApp.pdb
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\bin\Debug\PointLib.dll
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\bin\Debug\PointLib.pdb
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\obj\Debug\FormsApp.csproj.AssemblyReference.cache
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\obj\Debug\FormsApp.csproj.CoreCompileInputs.cache
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\obj\Debug\FormsApp.csproj.CopyComplete
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\obj\Debug\FormsApp.exe
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\obj\Debug\FormsApp.pdb
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\obj\Debug\FormsApp.PointForm.resources
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\bin\Debug\PointLib2.dll
+D:\Универ\8trim\Компонентное программирование\Кт-1\FormsApp\FormsApp\bin\Debug\PointLib2.pdb
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\FormsApp.exe.config
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\FormsApp.exe
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\FormsApp.pdb
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\PointLib.dll
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\PointLib.pdb
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\PointLib.xml
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\obj\Debug\FormsApp.csproj.AssemblyReference.cache
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\obj\Debug\FormsApp.PointForm.resources
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\obj\Debug\FormsApp.csproj.CoreCompileInputs.cache
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\obj\Debug\FormsApp.csproj.CopyComplete
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\obj\Debug\FormsApp.exe
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\obj\Debug\FormsApp.pdb
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\obj\Debug\FormsApp.exe.config
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\Newtonsoft.Json.dll
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\System.Text.Json.dll
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\System.Memory.dll
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\System.Text.Encodings.Web.dll
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\System.Numerics.Vectors.dll
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\System.Buffers.dll
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\Newtonsoft.Json.xml
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\YamlDotNet.dll
+D:\University\8trim\KompProgram\KT-1\FormsApp\FormsApp\bin\Debug\YamlDotNet.xml
